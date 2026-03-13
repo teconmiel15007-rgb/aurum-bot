@@ -1,2 +1,0 @@
-# aurum-bot
-Prueba2
